@@ -1,0 +1,19 @@
+{
+  "name": "l4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "dev": "nodemon main.js"
+  },
+  "keywords": [],
+  "author": "Harenajo",
+  "license": "ISC",
+  "dependencies": {
+    "fast-xml-parser": "^4.3.2"
+
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
